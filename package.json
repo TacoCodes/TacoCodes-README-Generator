@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ash0422/09-README-Generator.git"
+    "url": "git+https://github.com/TacoCodes/TacoCodes-README-Generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ash0422/09-README-Generator/issues"
+    "url": "https://github.com/TacoCodes/TacoCodes-README-Generator/issues"
   },
-  "homepage": "https://github.com/Ash0422/09-README-Generator#readme",
+  "homepage": "https://github.com/TacoCodes/TacoCodes-README-Generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
